@@ -1,0 +1,6 @@
+print("Tell me anything...")
+anything = input()
+print("Hmm...", anything, "... Really?")
+print("Why do you think that is?")
+because = input()
+print("Oh well,", because, "is cool.." )
